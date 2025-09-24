@@ -1,0 +1,4 @@
+template-file-path: CF-TEMPLATES/LB-Moneytos-Prod.txt
+parameters:
+  EnvironmentName: prod-vpc
+tags: {}
