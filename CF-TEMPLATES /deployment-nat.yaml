@@ -1,4 +1,0 @@
-template-file-path: CF-TEMPLATES/NatGateway-Moneytos-Prod.txt
-parameters:
-  EnvironmentName: prod-vpc
-tags: {}
